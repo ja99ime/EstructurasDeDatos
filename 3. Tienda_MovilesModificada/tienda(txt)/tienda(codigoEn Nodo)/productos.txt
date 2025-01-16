@@ -1,0 +1,15 @@
+XiaomiMi11 gamaMedia Usado 499.99 Xiaomi Mi11 Blanco 6.81 128 6
+GalaxyS21 gamaMedia Nuevo 799.99 Samsung GalaxyS21 Azul 6.20 256 8
+iPhone12 gamaAlta Nuevo 899.99 Apple iPhone12 Negro 6.10 128 4
+OnePlus9 gamaAlta Nuevo 749.99 OnePlus OnePlus9 Verde 6.55 256 12
+HuaweiP40 gamaAlta Usado 599.99 Huawei P40 Gris 6.10 128 8
+GooglePixel6 gamaAlta Nuevo 899.00 Google Pixel6 Blanco 6.40 128 8
+XiaomiRedmiNote11 gamaMedia Usado 269.99 Xiaomi RedmiNote11 Negro 6.43 64 4
+SamsungA52 gamaMedia Nuevo 399.99 Samsung A52 Azul 6.50 128 6
+iPhone13 gamaAlta Nuevo 1099.99 Apple iPhone13 Azul 6.10 256 6
+MotorolaEdge20 gamaMedia Nuevo 499.99 Motorola Edge20 Blanco 6.70 128 8
+RealmeGT gamaAlta Usado 649.99 Realme GT Rojo 6.43 256 12
+NokiaX20 gamaMedia Usado 349.99 Nokia X20 Azul 6.67 128 6
+OppoFindX3 gamaAlta Nuevo 999.99 Oppo FindX3 Blanco 6.70 256 12
+SonyXperia10 gamaMedia Usado 399.99 Sony Xperia10 Negro 6.00 128 4
+LGV60 gamaAlta Nuevo 799.99 LG V60 Gris 6.80 128 8

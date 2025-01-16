@@ -1,0 +1,1 @@
+gcc -o tiemposMOST tiemposMOST.c utilidades.c utilidades.h -lm
